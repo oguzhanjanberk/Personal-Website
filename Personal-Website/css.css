@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;600&display=swap');
+
+
+
+
+body{
+   background-color: rgb(34, 34, 34);
+}
+
+
+.fab fa-github{
+  color: white;
+  font-style: normal;
+}
+.container #headings {
+  position: absolute;
+  top: 165px;
+font-family: 'Manrope', sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 28px;
+  padding-left: 100px;
+}
+
+#headings{
+  color: white;
+
+
+}
+
+
+
+h1 {
+  font-family: 'Manrope', sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  width: 80%;
+  padding-top: 50px;
+}
+
+h2 {
+  font-family: 'Manrope', sans-serif;
+  font-size: 30px;
+  font-style: normal;
+}
+
+p {
+  font-family: 'Manrope', sans-serif;
+font-style: normal;
+padding-bottom:50px;
+font-size:24px;
+}
+
+.mail a {
+  color: white;
+  padding-right: 20px;
+  font-family: 'Manrope', sans-serif;
+  font-style: normal; 
+
+}
+
+
+a{
+  font-style: normal;
+}
+
+
+footer{
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+footer p {
+  font-size: 18px;
+}
+
+.img-fluid{
+  max-width: 100%;
+  height: auto;
+}
+
+.img-fluid #images{
+max-width: 100%;
+height: auto;
+left: 130px;
+top: 677px;
+position: absolute;
+
+}
+
+#images{
+  color: black;
+font-family: 'Manrope', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+color: white;
+}
+/*
+#images{
+width: 100%;
+height: 100%;
+left: 130px;
+top: 677px;
+} *//
